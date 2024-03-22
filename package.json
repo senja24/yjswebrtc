@@ -1,0 +1,13 @@
+{
+  "name": "yjsweb",
+  "version": "0.1.0",
+  "description": "Testing sync",
+  "main": "./index.js",
+  "sideEffects": false,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "lib0": "^0.2.42",
+    "ws": "^8.14.2"
+  }
+}
